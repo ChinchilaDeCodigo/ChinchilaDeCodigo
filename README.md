@@ -47,4 +47,4 @@ EN
 </div>
 
 ## 🟩 Contribuições / Contributions
-
+![snake gif](https://github.com/ChinchilaDeCodigo/ChinchilaDeCodigo/blob/output/github-snake-dark.svg)
