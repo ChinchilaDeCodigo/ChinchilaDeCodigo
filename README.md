@@ -14,12 +14,15 @@ EN
 
 ## 📊 Estatistícas / Stats
 
-<div>
-  <a href="https://github.com/ChinchilaDeCodigo"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChinchilaDeCodigo&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinchilaDeCodigo&theme=react&show_icons=true&hide_border=true&layout=compact">
-</div>
+<div align="center">
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChinchilaDeCodigo&theme=rose_pine) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinchilaDeCodigo&theme=rose_pine) | 
+  | :-: | :-: |
 
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChinchilaDeCodigo&theme=rose_pine) |
+  | :-: |
+</div>
+ 
 ## 🛠 Tecnologias / Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="profile-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
