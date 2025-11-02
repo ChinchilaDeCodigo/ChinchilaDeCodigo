@@ -4,13 +4,11 @@ PT
 - 🔭 Atuei/atuando como: Analista de Sistemas, Engenheiro de Dados e Desenvolvedor de Jogos
 - 🌱 Estudando C#, C++ e Unreal Engine
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: ...
 
 EN
 - 🔭 Worked/working as: Systems Analys, Data Engineer and Game Developer
 - 🌱 Studying C#, C++ and Unreal Engine
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 ## 📊 Estatistícas / Stats
 
